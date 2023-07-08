@@ -5,5 +5,7 @@ This tool is mainly intended to help bug bounty hunters, penetration testers, an
 
 Thanks to ChatGPT; I almost did not code anything at all.
 
+Twitter: <a href="https://twitter.com/0x21SAFE">@0x21SAFE</a>
+
 # Snapshot
 <img width="960" alt="rex" src="https://github.com/SeifElsallamy/REX/assets/11223632/51dcde72-99c4-465b-933a-d4029d1a4eaa">
